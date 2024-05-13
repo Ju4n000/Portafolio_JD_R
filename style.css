@@ -1,7 +1,6 @@
 .nombre {
     color: rgb(185, 178, 178);
     font-size: 100px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 1px 5px 1px rgb(105, 0, 0),
         0 0 3px rgb(110, 95, 62);
     text-decoration: underline;
@@ -17,12 +16,10 @@
 .apellido {
     color: rgb(185, 178, 178);
     font-size: 50px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 1px 5px 1px rgb(105, 0, 0),
         0 0 3px rgb(110, 95, 62);
     text-align: center;
     margin: 10%;
-    text-decoration: line-through;
     
 }
 
@@ -41,7 +38,6 @@
     margin: 50px 50px 10px;
     font-size: 50px;
     border: dashed 3px rgba(255, 255, 255, 0.568);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 8px;
 }
 
