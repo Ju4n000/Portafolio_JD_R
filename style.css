@@ -1,0 +1,169 @@
+.nombre {
+    color: rgb(185, 178, 178);
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 5px 1px rgb(105, 0, 0),
+        0 0 3px rgb(110, 95, 62);
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: -10%;
+    margin-top: -30%;
+
+    border: 4px rgba(255, 255, 255, 0.473);
+
+}
+
+
+.apellido {
+    color: rgb(185, 178, 178);
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 5px 1px rgb(105, 0, 0),
+        0 0 3px rgb(110, 95, 62);
+    text-align: center;
+    margin: 10%;
+    text-decoration: line-through;
+    
+}
+
+.fotoID {
+    width: 380px;
+    display: block;
+    margin: 0 auto;
+    border-style: ridge;
+    border-width: 15px;
+    border-color: rgba(255, 255, 255, 0.514);
+
+}
+
+.enlaces {
+    display: inline;
+    margin: 50px 50px 10px;
+    font-size: 50px;
+    border: dashed 3px rgba(255, 255, 255, 0.568);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 8px;
+}
+
+.enlacegithub {
+    color: rgba(255, 255, 255, 0.61);
+}
+
+.enlaceig {
+    color: rgba(218, 178, 0, 0.61);
+}
+
+.titulo {
+    color: rgb(185, 178, 178);
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 4px 1px rgb(105, 0, 0),
+        0 0 3px rgb(110, 95, 62);
+    text-align: center;
+    background-color: rgba(34, 0, 0, 0.747);
+
+
+}
+
+.texto1 {
+
+    font-size: 25px;
+    color: rgba(185, 178, 178);
+    width: 90%;
+    text-shadow: 1px 5px 1px rgb(105, 0, 0),
+        0 0 3px rgb(110, 95, 62);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.527);
+    border-style: solid;
+    border-color: black;
+
+
+}
+
+h2 {
+    margin: 4%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    background: rgba(191, 200, 201, 0.219);
+    align-items: center;
+    border: solid 6px black;
+    padding: 10px;
+    padding-top: 280px;
+    padding-bottom: 100px;
+    background-image: url(TerrorMe\ -\ copia.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: auto;
+}
+
+.bandatema {
+  text-decoration: line-through;
+  background-color: rgb(54, 0, 0);
+}
+
+
+.img img {
+    max-width: 100%;
+    height: auto;
+}
+
+.titulodibujos {
+    margin: 100px;
+    color: rgb(185, 178, 178);
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 4px 1px rgb(105, 0, 0),
+        0 0 3px rgb(110, 95, 62);
+
+    width: auto;
+}
+
+.img {
+
+    border: solid 5px black;
+
+}
+
+
+
+.dibujos {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.473);
+    width: auto;
+    padding: 20px;
+    border: solid 6px black;
+    align-items: center;
+    justify-content: center;
+    
+
+
+
+
+}
+
+.allcontent {
+    display: block;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: 30px;
+
+
+
+}
+
+.draw6 {
+    background-color: rgba(0, 0, 0, 0.397);
+}
+
